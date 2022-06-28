@@ -7,6 +7,6 @@ setup(name='AmazightSymbole',
       description='',
       author='Assemer LAYAS',
       author_email='',
-      url='https://www.python.org/sigs/distutils-sig/',
+      url='https://docs.python.org/3/library/turtle.html',
       packages=['turtle', 'tkinter']
      )
