@@ -4,20 +4,15 @@
 
 ![alt](ViewMe.png)
 
-Voisi un scripts En Python qui designer le symbole amazight, avec le ![#turtle](module turtle)  .<br>
+Voisi un scripts En Python qui designer le symbole amazight, avec le <a href="https://docs.python.org/3/library/turtle.html">module turtle</a>  .<br>
 You can Use it, it free and OpenSource<br>
 
 ### About Langage Programing
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
-## Music Include
-<a href='dist/audio/album/assam_mouloud/Aqlalas.mp3' >ASSAM Mouloud - Aqlalas</a><br>
-<a href='dist/audio/album/assam_mouloud/ASSAM Mouloud - Afalku.mp3' >ASSAM Mouloud - Afalku</a><br>
-<a href='dist/audio/album/assam_mouloud/ASSAM MOULOUD  - Am doro.mp3' >ASSAM Mouloud - Am doro</a><br>
-<a href='dist/audio/album/assam_mouloud/ASSAM Mouloud - Anwa id abrid.mp3' >ASSAM Mouloud - Anwa id abrid</a><br>
-<a href='dist/audio/album/assam_mouloud/Assam Mouloud Tameslayt.mp3' >ASSAM Mouloud - Tameslayt</a><br>
-
+## Setup 
+requirements.txt
 ## License
 Free OpenSource 
 
